@@ -18,8 +18,8 @@ consumer = KafkaConsumer(
 conn = psycopg2.connect(
     host="localhost",
     database="testdb",
-    password = "postgres",
-    user = "postgres",
+    password = "",
+    user = "",
     port = 5432
 )
 
