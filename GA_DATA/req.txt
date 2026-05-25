@@ -1,0 +1,1 @@
+using venv by  Set-ExecutionPolicy -Scope CurrentUser RemoteSigned then activate .\venv\Scripts\Activate.ps1 
