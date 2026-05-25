@@ -1,0 +1,12 @@
+#Description about the code
+
+This is kafka project to simulate real time data processing.
+
+source: kafka
+language: Python
+db: postgre SQL
+
+requirements to setup:
+1: Download Docker Desktop and create kafka and zookeper container. Run docker-compose.yml
+2: Setup postgreSQL, you can also create image on postgresql on docker.
+3: install depenedecies mentioned in requirements.txt
